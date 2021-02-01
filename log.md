@@ -2,13 +2,11 @@
 
 ### Day 1: February 1, 2021
 
-**https://www.freecodecamp.org/**
+**Today's Progress:** I forked the [Unicorn Project] (https://github.com/aradoi/unicorn) and took the time to create my dev environment - cleaned old python2.7, updated pip, npm and cdk. 
 
-**Today's Progress**: 
+**Thoughts:** Happy about onboarding this challenge. I'm sure there is a lot to discover along the way.
 
-**Thoughts:**
+**Links:**
 
-**Links to work:**
-
-1. [Name](URL)
-2. [Name](URL)
+1. [My Forked project on GitHub](https://github.com/aradoi/unicorn.git)
+2. [Official website for the project](https://www.matscloud.com/docs/unicorn-project/workshop/)
