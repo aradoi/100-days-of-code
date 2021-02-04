@@ -30,3 +30,13 @@
 **Links:**
 
 1. [CDK workshop](https://cdkworkshop.com/)
+
+### Day 4: February 4, 2021
+
+**Today's Progress:** I completed the CDK workshop. Today I gave lambda permissions to write to a DynamoDB table and be able to invoke dowstream lambdas. Exposed a hit counter to the internet via a pip module which was made for demo purposes, as it exposes to the internet without authentication the whole content of the table. Looked further into Step functions and discovered an amazing service with endless implementation choices. 
+
+**Thoughts:** I like CDK, which I'm sure it's here to stay! Another rhyme, another day :) (yesterday it was "CDK abstracts away" :P)
+
+**Links:**
+
+1. [CDK workshop](https://cdkworkshop.com/)
