@@ -20,3 +20,13 @@
 **Links:**
 
 1. [CDK workshop](https://cdkworkshop.com/)
+
+### Day 3: February 3, 2021
+
+**Today's Progress:** I started developing in CDK and get familiar with CDK Constructs. Coded a couple of lambda functions and an API GW to proxy all requests for the backend lambdas. Got more familiar with the code structure and how functions are called from external files.
+
+**Thoughts:** It's important to get familiar with the concepts first and then build on top.
+
+**Links:**
+
+1. [CDK workshop](https://cdkworkshop.com/)
