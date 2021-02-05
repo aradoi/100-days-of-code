@@ -40,3 +40,15 @@
 **Links:**
 
 1. [CDK workshop](https://cdkworkshop.com/)
+
+### Day 5: February 5, 2021
+
+**Today's Progress:** I started to look into Corda, as a blockchain implementation for business commercials. Fascinating new world, learned lots of new concepts which I didn't know anything about. Determined to go deep into it and manage to help operationalize such a network.
+
+**Thoughts:** You have to try new things to give yourself the change to experiment new concepts and ideas you didn't think about up to that point. Blockchain is a very elegant way to ensure persistent state through a decentralized database architecture.
+
+**Links:**
+
+1. [Corda education of Vimeo](https://vimeo.com/showcase/4555732)
+2. [Corda - An Introduction whitepaper](https://docs.corda.net/en/pdf/corda-introductory-whitepaper.pdf)
+3. [Corda - A Distributed Ledger](https://docs.corda.net/en/pdf/corda-introductory-whitepaper.pdf)
